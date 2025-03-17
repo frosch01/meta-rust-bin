@@ -1,5 +1,5 @@
 meta-rust-bin
-=============
+==============
 
 An OpenEmebdded/Yocto layer providing pre-built toolchains for the
 [Rust programming language](https://www.rust-lang.org).
